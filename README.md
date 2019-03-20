@@ -25,6 +25,8 @@ python subs2pic.py
 
 ```
 
+To use it with your emails just replace `emails.csv` file with yours emails.
+
 ## Details
 
 1.  To decide if email is from free email provider I have used [this file](http://svn.apache.org/repos/asf/spamassassin/trunk/rules/20_freemail_domains.cf)
