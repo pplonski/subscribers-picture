@@ -13,8 +13,15 @@ This is a simple python script `subs2pic.py` that:
 
 ```
 # clone the repo
+git clone https://github.com/pplonski/subscribers-picture.git
+
+# set the env
+virtualenv venv --python=python3.6
+source venv/bin/activate
+pip install -r requirements.txt
 
 # run the script
+python subs2pic.py
 
 ```
 
