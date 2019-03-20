@@ -2,6 +2,9 @@
 
 Get big picture with logos of your subscribers based on their emails.
 
+
+![Example](media/subscribers_big_picture.jpg)
+
 This is a simple python script `subs2pic.py` that:
 
 1. Reads csv file `emails.csv` with emails of your subscribers.
