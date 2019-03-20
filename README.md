@@ -25,6 +25,8 @@ python subs2pic.py
 
 ```
 
+The result image is saved to `subscribers_big_picture.jpg`.
+
 To use it with your emails just replace `emails.csv` file with yours emails.
 
 ## Details
