@@ -14,6 +14,7 @@ This is a simple python script `subs2pic.py` that:
 ```
 # clone the repo
 git clone https://github.com/pplonski/subscribers-picture.git
+cd subscribers-picture
 
 # set the env
 virtualenv venv --python=python3.6
